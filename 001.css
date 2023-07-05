@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50% , rgba(0,0,0,0.5)50% ) , url(/Img/earth_and_moon_from_space-wallpaper-1920x1200.jpg);
+    background-size: cover;
+    background-position: center;
+}
